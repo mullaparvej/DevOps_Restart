@@ -15,7 +15,7 @@ elif [ $n -eq 999 ];
 then
 echo "You got 3rd prize"
 
-elif [ $n -eq 222,222,1,2,4,5,6 ];
+elif [ $n -eq 1 ];
 then
 echo "You got 4th prize"
 
